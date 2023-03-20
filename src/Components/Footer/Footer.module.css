@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 100vw;
+    margin: 30px 0 0;
+    padding: 20px 10px 0;
+    background-color: black;
+  }
+  
+  .social {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+  
+  .socialIcon {
+    margin: 10px;
+  }
